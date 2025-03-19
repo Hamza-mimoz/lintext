@@ -1166,7 +1166,7 @@ body {
 
 @media (max-width: 400px) {
   .naptec-nav-section a {
-    font-size: 14px;
+    font-size: 12px;
   }
   .naptec-nav-section ul {
     column-gap: 10px;
